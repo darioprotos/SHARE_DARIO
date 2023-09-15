@@ -2,3 +2,6 @@ IMPOSTARE NOME DEL ROUTER
 SYSTEM/IDENTITY 
 set name=
 
+COLLEGAMENTO A ROUTER TRAMITE SSH o tramite TELNET 
+scaricare prima il programma di PUTTY
+
